@@ -1,0 +1,59 @@
+.container{
+    margin-left: 300px;
+}
+h1{
+    margin-left: 310px;
+}
+.box{
+    
+    height: 30px;
+    width: 300px;
+    box-shadow: 0 0 30px rgb(160, 122, 122);
+
+}
+.box1{
+    display: inline-flex;
+    background: linear-gradient( to bottom , pink , rgb(248, 245, 245) , pink);
+    margin-bottom: 10px;
+}
+.box2{
+    display: inline-flex;
+    background: linear-gradient( to bottom , rgb(108, 177, 94) , rgb(193, 216, 188) ,  rgb(108, 177, 94));
+    margin-bottom: 10px;
+}
+.box3{
+    display: inline-flex;
+    background: linear-gradient( to bottom , rgb(128, 127, 206) , rgb(193, 216, 188) ,  rgb(128, 127, 206));
+    margin-bottom: 10px;
+}
+
+.box1_1{
+    height: 30px;
+    background:linear-gradient( to bottom , rgb(197, 13, 44) , rgb(209, 151, 151) , rgb(180, 13, 41));
+}
+.box2_1{
+    height: 30px;
+    background:linear-gradient( to bottom , rgb(68, 202, 15) , rgb(161, 194, 146) , rgb(68, 202, 15));
+}
+.box3_1{
+    height: 30px;
+    background:linear-gradient( to bottom , rgb(32, 14, 199) , rgb(110, 114, 172) , rgb(32, 14, 199));
+}
+.part1_1{
+    width: 80px;
+}
+.part2{
+    height: 30px;
+    background-color: black;
+}
+.part2_1{
+    width: 5px;
+}
+.part2_2{
+    margin-left: 5px;
+    width: 5px;
+}
+.part1_2{
+    margin-left: 170px;
+    width: 40px;
+}
